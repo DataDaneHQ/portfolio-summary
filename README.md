@@ -2,7 +2,30 @@
 
 ## Welcome!
 
-This portfolio summary highlights my expertise in data analytics, demonstrating my ability to transform messy datasets into actionable insights, craft compelling visualizations, and solve business challenges through data-driven solutions. With a strong foundation in Python, R, SQL, Tableau, and Excel, these projects showcase advanced data manipulation, trend analysis, and predictive modelling. Each project highlights the importance of storytelling with data, effective stakeholder collaboration, and driving decision-making through clear, impactful dashboards and reports. This portfolio reflects my commitment to continuous learning, adaptability, and delivering results that align with business objectives.
+While my current role at Essential Services Commission involves building enterprise automation systems, this portfolio showcases the analytical and machine learning foundation that enables that work. Sanitized versions of production projects (data validation automation, reporting infrastructure, AI implementation) will be added as they're prepared for public release.
+
+### Featured Projects:  
+**Machine Learning & Predictive Analytics:**
+
+- Employee attrition prediction (XGBoost, 96.7% AUC-ROC)  
+- Content moderation classification (Random Forest, 99.21% recall)  
+- Statistical modeling and feature engineering  
+
+**Real-World Analytics:**
+
+- Victorian energy affordability analysis (ESC regulatory data)  
+- Māori health intervention analysis (HRCNZ-funded research)  
+- Compliance and policy-focused investigations  
+
+**Technical Capabilities:**
+
+- Python (Pandas, Scikit-Learn, NumPy, Seaborn)  
+- R (statistical analysis, data manipulation)  
+- Tableau (interactive dashboards, data storytelling)  
+- SQL (data extraction, transformation)  
+
+> [!NOTE]
+> *Production-level work (enterprise R automation, Azure SQL workflows, AI implementation) is confidential but detailed on my resume and LinkedIn. These projects demonstrate the analytical thinking and technical execution that translates to senior-level deliverables.*
 
 [Resume](https://github.com/DataDaneHQ/Resume/blob/main/README.md)
 
