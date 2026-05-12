@@ -1,4 +1,4 @@
-![Portfolio Summary Banner](Images/Portfolio Summary Banner.png)
+![Portfolio Summary Banner](00_Resources/portfolio_banner.png)
 
 <br>
 
@@ -14,12 +14,15 @@ depth that makes the automation meaningful.
 
 <br>
 
-### Automation & AI Pipelines
+## Automation & AI Pipelines  
+
 **Production deployments. Real environments. Measurable outcomes.**
 
 ## WhisperX Transcription Pipeline
 
 *What do you do when 3,500 call recordings need transcribing and no approved tool exists?*
+
+[<img src="00_Resourse/transcription_image.jpg" alt="Transcription image" height="200px">](https://github.com/DataDaneHQ/whisperx-transcription-pipeline)
 
 [View Project →](https://github.com/DataDaneHQ/whisperx-transcription-pipeline)
 
@@ -39,8 +42,13 @@ Built and deployed an in-house pipeline using WhisperX and three Pyannote neural
 
 ---
 
+<br>
+
 ## RStudio & GitHub Guide
+
 *How do you uplift a team's analytical capability without a training budget?*
+
+[<img src="00_Resourse/rstudio_guide_image.jpg" alt="RStudio Guide image" height="200px">](https://github.com/DataDaneHQ/rstudio-guide)
 
 [View Project →](https://github.com/DataDaneHQ/rstudio-guide)
 
@@ -57,6 +65,10 @@ A reusable, public resource that removes the dependency on tribal knowledge and
 lets analysts get productive faster — independently.
 
 **Tools:** R · RStudio · GitHub · R Markdown · Quarto · CSS
+
+---
+
+<br>
 
 ## Salifort Motors — Employee Attrition Prediction
 *Can you predict who's about to quit before they do?*
