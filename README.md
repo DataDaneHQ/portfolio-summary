@@ -2,15 +2,13 @@
 
 <br>
 
-## I walk into broken, expensive, manual processes and automate them out of existence.
+*I walk into broken, expensive, manual processes and automate them out of existence.*
 
 Analytics & Automation Engineer with a track record of delivering production-grade 
 automation and AI pipelines inside highly regulated government environments.
 
 This portfolio documents that work — real problems, real outcomes, and the analytical 
 depth that makes the automation meaningful.
-
----
 
 <br>
 
@@ -22,7 +20,7 @@ depth that makes the automation meaningful.
 
 *What do you do when 3,500 call recordings need transcribing and no approved tool exists?*
 
-[<img src="00_Resourse/transcription_image.jpg" alt="Transcription image" height="200px">](https://github.com/DataDaneHQ/whisperx-transcription-pipeline)
+[<img src="00_Resources/transcription_image.jpg" alt="Transcription image" height="200px">](https://github.com/DataDaneHQ/whisperx-transcription-pipeline)
 
 [View Project →](https://github.com/DataDaneHQ/whisperx-transcription-pipeline)
 
@@ -48,7 +46,7 @@ Built and deployed an in-house pipeline using WhisperX and three Pyannote neural
 
 *How do you uplift a team's analytical capability without a training budget?*
 
-[<img src="00_Resourse/rstudio_guide_image.jpg" alt="RStudio Guide image" height="200px">](https://github.com/DataDaneHQ/rstudio-guide)
+[<img src="00_Resources/rstudio_guide_image.jpg" alt="RStudio Guide image" height="200px">](https://github.com/DataDaneHQ/rstudio-guide)
 
 [View Project →](https://github.com/DataDaneHQ/rstudio-guide)
 
@@ -73,8 +71,7 @@ lets analysts get productive faster — independently.
 ## Salifort Motors — Employee Attrition Prediction
 *Can you predict who's about to quit before they do?*
 
-[<img src="Images/salifort_motors_cover_image.jpg" alt="Salifort Motors" 
-height="200px">](https://github.com/DataDaneHQ/Salifort_Motors_Attrition_Analysis/blob/main/README.md)
+[<img src="00_Resources/salifort_motors_cover_image.jpg" alt="Salifort Motors" height="200px">](https://github.com/DataDaneHQ/Salifort_Motors_Attrition_Analysis/blob/main/README.md)
 
 [View Project →](https://github.com/DataDaneHQ/Salifort_Motors_Attrition_Analysis/blob/main/README.md)
 
