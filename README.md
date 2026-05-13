@@ -138,7 +138,7 @@ End-to-end BI development following a structured three-phase process — stakeho
 
 ### The Result So Far
 
-Phases 1 and 2 complete. Dashboard design and build in progress. Follow the repo to watch it develop in real time — including a planned postmortem comparing course methodology against real-world BI efficiency.
+Phase 1 complete. Data preparation in progress. Follow the repo to watch it develop in real time — including a planned postmortem comparing course methodology against real-world BI efficiency.
 
 **Tools:** SQL · ETL · Business Intelligence · Dashboard Design
 
@@ -154,9 +154,9 @@ Phases 1 and 2 complete. Dashboard design and build in progress. Follow the repo
 
 *How do you measure the impact of a health programme on a community that mainstream research tools weren't designed to serve?*
 
-[<img src="00_Resources/pona_kaka_image.png" alt="Pona Kaka Analysis" height="200px">](https://github.com/DataDaneHQ/Pona_Kaka/blob/main/README.md)
+[<img src="00_Resources/pona_kaka_image.png" alt="Pona Kaka Analysis" height="200px">](https://github.com/DataDaneHQ/pona-kaka/blob/main/README.md)
 
-[View Project →](https://github.com/DataDaneHQ/Pona_Kaka/blob/main/README.md)
+[View Project →](https://github.com/DataDaneHQ/pona-kaka/blob/main/README.md)
 
 ### The Problem
 
