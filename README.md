@@ -172,4 +172,6 @@ A complete analysis of participant experiences, pain management outcomes, and pr
 
 ---
 
+*One action. Expanding impact.*
+
 <br>
