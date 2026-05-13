@@ -145,3 +145,33 @@ Phases 1 and 2 complete. Dashboard design and build in progress. Follow the repo
 ---
 
 <br>
+
+## Real-World Research & Analysis
+
+**Contracted work. Real clients. Real outcomes.**
+
+## Pona Kakā — Arthritis Intervention Analysis
+
+*How do you measure the impact of a health programme on a community that mainstream research tools weren't designed to serve?*
+
+[<img src="00_Resources/pona_kaka_image.png" alt="Pona Kaka Analysis" height="200px">](https://github.com/DataDaneHQ/Pona_Kaka/blob/main/README.md)
+
+[View Project →](https://github.com/DataDaneHQ/Pona_Kaka/blob/main/README.md)
+
+### The Problem
+
+The Waikare Community Development and Research Trust needed to understand whether their Pona Kakā arthritis intervention was working — and why. The programme served Māori communities, requiring a culturally grounded analytical approach, not a standard research framework. Funded by the Health Research Council of New Zealand (HRCNZ).
+
+### How It Was Solved
+
+Combined thematic analysis of qualitative interview data with descriptive statistics and visualisation of health outcomes. Findings were synthesised into an executive report accessible to both technical and non-technical stakeholders, designed to support ongoing funding and programme decisions.
+
+### The Result
+
+A complete analysis of participant experiences, pain management outcomes, and programme impact — delivered as an executive report that gave the Trust actionable insights to refine intervention strategies and strengthen their funding case.
+
+**Tools:** Python · Pandas · MS Excel · Qualitative Thematic Analysis
+
+---
+
+<br>
