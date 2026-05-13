@@ -38,8 +38,6 @@ Built and deployed an in-house pipeline using WhisperX and three Pyannote neural
 
 **Tools:** R · WhisperX · Pyannote · Reticulate · Shiny · SharePoint · Microsoft365R
 
----
-
 <br>
 
 ### RStudio & GitHub Guide
@@ -68,6 +66,10 @@ A reusable, public resource that removes the dependency on tribal knowledge and 
 
 <br>
 
+## Machine Learning & Predictive Analytics
+
+**Analytical depth behind the automation.**
+
 ### Salifort Motors — Employee Attrition Prediction
 
 *Can you predict who's about to quit before they do?*
@@ -89,3 +91,58 @@ Tested Decision Tree, Random Forest, and XGBoost models against workforce data. 
 96.7% AUC-ROC — a highly reliable early warning system for HR decision-making, with specific recommendations on workload, career development, and compensation gaps.
 
 **Tools:** Python · XGBoost · Scikit-Learn · Seaborn · Jupyter Notebook
+
+<br>
+
+## TikTok Claims Classification
+*Can a machine tell the difference between a claim and an opinion at scale?*
+
+[<img src="Images/Optimizing_Content_Moderation_with_Machine_Learning.png" 
+alt="TikTok Claims Classification" height="200px">](https://github.com/DataDaneHQ/Coursera-TikTok-Capstone-Project/blob/main/README.md)
+
+[View Project →](https://github.com/DataDaneHQ/Coursera-TikTok-Capstone-Project/blob/main/README.md)
+
+### The Problem
+
+Manual review of TikTok user reports is inefficient at scale. Moderation teams needed a reliable way to automatically classify reports as claims or opinions — faster, and without sacrificing accuracy.
+
+### How It Was Solved
+
+Tested Logistic Regression, Random Forest, and XGBoost against TikTok interaction data. EDA and hypothesis testing guided feature selection. Random Forest emerged as the clear winner. Findings were delivered through an interactive Tableau dashboard and executive summaries for stakeholders.
+
+### The Result
+
+99.21% recall for identifying claims — a highly reliable classification model that reduces manual moderation workload and supports faster, more consistent content decisions at scale.
+
+**Tools:** Python · Random Forest · Scikit-Learn · Tableau · Jupyter Notebook
+
+<br>
+
+## Google Fiber — Customer Service BI Dashboard
+
+*How do you reduce support call volume when you don't yet know why customers keep calling back?*
+
+[<img src="Images/google_fiber_image.png" alt="Google Fiber BI Dashboard" height="200px">](https://github.com/DataDaneHQ/Google-Fiber-Customer-Service-Dashboard/blob/main/README.md)
+
+[View Project →](https://github.com/DataDaneHQ/Google-Fiber-Customer-Service-Dashboard/blob/main/README.md)
+
+![Project Status](https://img.shields.io/badge/Status-In%20Progress-blue)
+![Phase](https://img.shields.io/badge/Phase-2%20of%203-blue)
+
+### The Problem
+
+Google Fiber's customer service team needed to understand why customers were calling support more than once — and where repeat call patterns differed across three market cities. Without that visibility, reducing call volume was guesswork.
+
+### How It's Being Solved
+
+End-to-end BI development following a structured three-phase process — stakeholder requirements, data preparation and ETL pipelines, through to an interactive dashboard delivering repeat caller insights by market and problem type.
+
+### The Result So Far
+
+Phases 1 and 2 complete. Dashboard design and build in progress. Follow the repo to watch it develop in real time — including a planned postmortem comparing course methodology against real-world BI efficiency.
+
+**Tools:** SQL · ETL · Business Intelligence · Dashboard Design
+
+---
+
+<br>
