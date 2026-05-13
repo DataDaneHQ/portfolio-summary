@@ -97,8 +97,7 @@ Tested Decision Tree, Random Forest, and XGBoost models against workforce data. 
 ## TikTok Claims Classification
 *Can a machine tell the difference between a claim and an opinion at scale?*
 
-[<img src="Images/Optimizing_Content_Moderation_with_Machine_Learning.png" 
-alt="TikTok Claims Classification" height="200px">](https://github.com/DataDaneHQ/Coursera-TikTok-Capstone-Project/blob/main/README.md)
+[<img src="00_Resources/tiktok_claims_image.png" alt="TikTok Claims Classification" height="200px">](https://github.com/DataDaneHQ/Coursera-TikTok-Capstone-Project/blob/main/README.md)
 
 [View Project →](https://github.com/DataDaneHQ/Coursera-TikTok-Capstone-Project/blob/main/README.md)
 
@@ -122,7 +121,7 @@ Tested Logistic Regression, Random Forest, and XGBoost against TikTok interactio
 
 *How do you reduce support call volume when you don't yet know why customers keep calling back?*
 
-[<img src="Images/google_fiber_image.png" alt="Google Fiber BI Dashboard" height="200px">](https://github.com/DataDaneHQ/Google-Fiber-Customer-Service-Dashboard/blob/main/README.md)
+[<img src="00_Resources/google_fiber_image.png" alt="Google Fiber BI Dashboard" height="200px">](https://github.com/DataDaneHQ/Google-Fiber-Customer-Service-Dashboard/blob/main/README.md)
 
 [View Project →](https://github.com/DataDaneHQ/Google-Fiber-Customer-Service-Dashboard/blob/main/README.md)
 
