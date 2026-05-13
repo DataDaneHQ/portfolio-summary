@@ -4,11 +4,9 @@
 
 **I walk into broken, expensive, manual processes and automate them out of existence.**
 
-Analytics & Automation Engineer with a track record of delivering production-grade 
-automation and AI pipelines inside highly regulated government environments.
+Analytics & Automation Engineer with a track record of delivering production-grade automation and AI pipelines inside highly regulated government environments.
 
-This portfolio documents that work — real problems, real outcomes, and the analytical 
-depth that makes the automation meaningful.
+This portfolio documents that work — real problems, real outcomes, and the analytical depth that makes the automation meaningful.
 
 <br>
 
@@ -94,22 +92,22 @@ Tested Decision Tree, Random Forest, and XGBoost models against workforce data. 
 
 <br>
 
-## TikTok Claims Classification
+### TikTok Claims Classification
 *Can a machine tell the difference between a claim and an opinion at scale?*
 
 [<img src="00_Resources/tiktok_claims_image.png" alt="TikTok Claims Classification" height="200px">](https://github.com/DataDaneHQ/Coursera-TikTok-Capstone-Project/blob/main/README.md)
 
 [View Project →](https://github.com/DataDaneHQ/Coursera-TikTok-Capstone-Project/blob/main/README.md)
 
-### The Problem
+#### The Problem
 
 Manual review of TikTok user reports is inefficient at scale. Moderation teams needed a reliable way to automatically classify reports as claims or opinions — faster, and without sacrificing accuracy.
 
-### How It Was Solved
+#### How It Was Solved
 
 Tested Logistic Regression, Random Forest, and XGBoost against TikTok interaction data. EDA and hypothesis testing guided feature selection. Random Forest emerged as the clear winner. Findings were delivered through an interactive Tableau dashboard and executive summaries for stakeholders.
 
-### The Result
+#### The Result
 
 99.21% recall for identifying claims — a highly reliable classification model that reduces manual moderation workload and supports faster, more consistent content decisions at scale.
 
@@ -117,7 +115,7 @@ Tested Logistic Regression, Random Forest, and XGBoost against TikTok interactio
 
 <br>
 
-## Google Fiber — Customer Service BI Dashboard
+### Google Fiber — Customer Service BI Dashboard
 
 *How do you reduce support call volume when you don't yet know why customers keep calling back?*
 
@@ -128,15 +126,15 @@ Tested Logistic Regression, Random Forest, and XGBoost against TikTok interactio
 ![Project Status](https://img.shields.io/badge/Status-In%20Progress-blue)
 ![Phase](https://img.shields.io/badge/Phase-2%20of%203-blue)
 
-### The Problem
+#### The Problem
 
 Google Fiber's customer service team needed to understand why customers were calling support more than once — and where repeat call patterns differed across three market cities. Without that visibility, reducing call volume was guesswork.
 
-### How It's Being Solved
+#### How It's Being Solved
 
 End-to-end BI development following a structured three-phase process — stakeholder requirements, data preparation and ETL pipelines, through to an interactive dashboard delivering repeat caller insights by market and problem type.
 
-### The Result So Far
+#### The Result So Far
 
 Phase 1 complete. Data preparation in progress. Follow the repo to watch it develop in real time — including a planned postmortem comparing course methodology against real-world BI efficiency.
 
@@ -150,7 +148,7 @@ Phase 1 complete. Data preparation in progress. Follow the repo to watch it deve
 
 **Contracted work. Real clients. Real outcomes.**
 
-## Pona Kakā — Arthritis Intervention Analysis
+### Pona Kakā — Arthritis Intervention Analysis
 
 *How do you measure the impact of a health programme on a community that mainstream research tools weren't designed to serve?*
 
@@ -158,15 +156,15 @@ Phase 1 complete. Data preparation in progress. Follow the repo to watch it deve
 
 [View Project →](https://github.com/DataDaneHQ/pona-kaka/blob/main/README.md)
 
-### The Problem
+#### The Problem
 
 The Waikare Community Development and Research Trust needed to understand whether their Pona Kakā arthritis intervention was working — and why. The programme served Māori communities, requiring a culturally grounded analytical approach, not a standard research framework. Funded by the Health Research Council of New Zealand (HRCNZ).
 
-### How It Was Solved
+#### How It Was Solved
 
 Combined thematic analysis of qualitative interview data with descriptive statistics and visualisation of health outcomes. Findings were synthesised into an executive report accessible to both technical and non-technical stakeholders, designed to support ongoing funding and programme decisions.
 
-### The Result
+#### The Result
 
 A complete analysis of participant experiences, pain management outcomes, and programme impact — delivered as an executive report that gave the Trust actionable insights to refine intervention strategies and strengthen their funding case.
 
