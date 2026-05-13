@@ -121,7 +121,7 @@ Tested Logistic Regression, Random Forest, and XGBoost against TikTok interactio
 
 *How do you reduce support call volume when you don't yet know why customers keep calling back?*
 
-[<img src="00_Resources/google_fiber_image.png" alt="Google Fiber BI Dashboard" height="200px">](https://github.com/DataDaneHQ/Google-Fiber-Customer-Service-Dashboard/blob/main/README.md)
+[<img src="00_Resources/google_fiber_image.jpg" alt="Google Fiber BI Dashboard" height="200px">](https://github.com/DataDaneHQ/Google-Fiber-Customer-Service-Dashboard/blob/main/README.md)
 
 [View Project →](https://github.com/DataDaneHQ/Google-Fiber-Customer-Service-Dashboard/blob/main/README.md)
 
