@@ -2,7 +2,7 @@
 
 <br>
 
-**I walk into broken, expensive, manual processes and automate them out of existence.**
+**I build automation that eliminates the manual work organisations have learned to live with.**
 
 Analytics & Automation Engineer with a track record of delivering production-grade automation and AI pipelines inside highly regulated government environments.
 
