@@ -16,7 +16,7 @@ This portfolio documents that work — real problems, real outcomes, and the ana
 
 ### WhisperX Transcription Pipeline
 
-*What do you do when 3,500 call recordings need transcribing and no approved tool exists?*
+*What do you do when thousands of call recordings need transcribing and no approved tool exists?*
 
 [<img src="00_Resources/transcription_image.jpg" alt="Transcription image" height="200px">](https://github.com/DataDaneHQ/whisperx-transcription-pipeline)
 
@@ -24,7 +24,7 @@ This portfolio documents that work — real problems, real outcomes, and the ana
 
 #### The Problem
 
-An enforcement team needed ~3,500 call recordings transcribed at scale — fast, accurately, and without sensitive audio ever leaving the team's infrastructure. No approved commercial tool existed. Procurement was too slow.
+An enforcement team needed thousands of call recordings transcribed at scale — fast, accurately, and without sensitive audio ever leaving the team's infrastructure. No approved commercial tool existed. Procurement was too slow.
 
 #### How It Was Solved
 
@@ -32,7 +32,7 @@ Built and deployed an in-house pipeline using WhisperX and three Pyannote neural
 
 #### The Result
 
-~3,500 calls transcribed — speaker-labelled, timestamped, and delivered in the format investigators needed. Sensitive audio never left the team's infrastructure. The organisation's first locally-deployed, multi-model AI pipeline.
+Thousands of recordings transcribed — speaker-labelled, timestamped, and delivered in the format investigators needed. Sensitive audio never left the team's infrastructure. The organisation's first locally-deployed, multi-model AI pipeline.
 
 **Tools:** R · WhisperX · Pyannote · Reticulate · Shiny · SharePoint · Microsoft365R
 
